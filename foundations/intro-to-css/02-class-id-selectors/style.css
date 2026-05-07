@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+p {
+  background-color: palevioletred; font-family: Verdana; "DejaVu Sans", sans-serif
+}
+.special-text {
+    font-size: 24px;
+}
+#number-two {
+    color: blue; font-size: 36px;
+    }
+#number-four {
+    background-color: green; font-size: 24px; font-weight: bold
+    }
